@@ -1,2 +1,2 @@
 # Coursera_ML
-ML courses on Coursers
+ML courses on Coursera
