@@ -1,2 +1,2 @@
-# Coursera_ML
-ML courses on Coursera
+# Coursera: Mathematics for Machine Learning
+Mathematics for Machine Learning Specialization
